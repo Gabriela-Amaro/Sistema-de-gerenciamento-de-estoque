@@ -108,4 +108,4 @@ O sistema será desenvolvido usando tecnologias web modernas, garantindo compati
 
 #### 4.2 Orçamento
 
-O desenvolvimento do sistema deve ser realizado dentro do orçamento previsto pelo cliente, sem comprometer a qualidade ou as funcionalidades essenciais.
+O desenvolvimento do sistema deve ser realizado dentro do orçamento previsto, sem comprometer a qualidade ou as funcionalidades essenciais.
